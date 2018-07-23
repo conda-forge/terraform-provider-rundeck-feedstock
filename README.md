@@ -14,14 +14,16 @@ Summary: The Terraform Rundeck provider
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/terraform-provider-rundeck-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/terraform-provider-rundeck-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/terraform-provider-rundeck-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/terraform-provider-rundeck-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/terraform-provider-rundeck-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/terraform-provider-rundeck-feedstock/branch/master)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/terraform-provider-rundeck-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/terraform-provider-rundeck-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/terraform-provider-rundeck-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/terraform-provider-rundeck-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/terraform-provider-rundeck-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/terraform-provider-rundeck-feedstock/branch/master)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/terraform-provider-rundeck/badges/version.svg)](https://anaconda.org/conda-forge/terraform-provider-rundeck)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/terraform-provider-rundeck/badges/downloads.svg)](https://anaconda.org/conda-forge/terraform-provider-rundeck)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-terraform--provider--rundeck-green.svg)](https://anaconda.org/conda-forge/terraform-provider-rundeck) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/terraform-provider-rundeck.svg)](https://anaconda.org/conda-forge/terraform-provider-rundeck) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/terraform-provider-rundeck.svg)](https://anaconda.org/conda-forge/terraform-provider-rundeck) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/terraform-provider-rundeck.svg)](https://anaconda.org/conda-forge/terraform-provider-rundeck) |
 
 Installing terraform-provider-rundeck
 =====================================
