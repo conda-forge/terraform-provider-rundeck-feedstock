@@ -1,13 +1,13 @@
 {% set provider = "Rundeck" %}
 {% set goname = "github.com/terraform-providers/terraform-provider-"+provider.lower() %}
-{% set version = "0.2.0" %}
+{% set version = "0.4.0" %}
 
 {% set name = goname.split('/')[-1] %}
 {% set pkg_src = ('src/'+goname).replace("/",os.sep) %}
 
 {% set x4_plugin = name + '_v' + version + "_x4" + (".exe" if win else "")%}
 
-{% set sha256 = "59af057900f52136e3b07d04c51e06558bbcae056c5bb93c7ec382cc68d62068" %}
+{% set sha256 = "2a2151ad8da6f4707a51c5c35560d99754478aeb6ce76ff97da64caea320c0b1" %}
 {% set sha256_win64 = "6d8aee08454f5bae965d7ce1c52013124e8b3acaea67cd001e60802bd21e8fc4" %}
 
 package:
